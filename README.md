@@ -1,3 +1,3 @@
 # Pet-Adoption-App-UI
 
-![Preview of the app](https://github.com/KumarArab/Pet-Adoption-App-UI/blob/master/thumb.png?raw=true)
+![Preview of the app](https://github.com/KumarArab/Pet-Adoption-WebApp-UI/blob/master/thumb.png?raw=true)
